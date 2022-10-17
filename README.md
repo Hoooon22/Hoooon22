@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?height=400&text=Welcome!&desc=JiHoon's%20Github%20Profile)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text= :turtle: &fontSize=30)
 <!--
 **Hoooon22/Hoooon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
